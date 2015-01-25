@@ -1,0 +1,7 @@
+Side effects:
+ Number: Function: increment. Side effet: none
+ List: Funcion: change value at index [1]. Side effect: index[1] changed outside function
+ Dictionary: Function: change value at index[0]. Side effect: index[0] changed outside function.
+ String: Function: call uppercase on string. Side effect: none
+ Boolean: Function: call not() on boolean True. Side effect: none
+ Tuple: Function: try to .pop(). Side effect: tuple is immutable
